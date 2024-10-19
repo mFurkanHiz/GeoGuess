@@ -1,0 +1,14 @@
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\bin\Debug\net8.0\GeoGuess.Model.deps.json
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\bin\Debug\net8.0\GeoGuess.Model.runtimeconfig.json
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\bin\Debug\net8.0\GeoGuess.Model.dll
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\bin\Debug\net8.0\GeoGuess.Model.pdb
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\GeoGuess.Model.csproj.AssemblyReference.cache
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\GeoGuess.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\GeoGuess.Model.AssemblyInfoInputs.cache
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\GeoGuess.Model.AssemblyInfo.cs
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\GeoGuess.Model.csproj.CoreCompileInputs.cache
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\GeoGuess.Model.dll
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\refint\GeoGuess.Model.dll
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\GeoGuess.Model.pdb
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\GeoGuess.Model.genruntimeconfig.cache
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.Model\obj\Debug\net8.0\ref\GeoGuess.Model.dll

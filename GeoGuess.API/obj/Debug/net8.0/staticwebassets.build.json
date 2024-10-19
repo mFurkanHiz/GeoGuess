@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NQixP7E/BGJVeE4robYgo8pM/v8MeVyerwGGrYvw6S4=",
+  "Source": "GeoGuess.API",
+  "BasePath": "_content/GeoGuess.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\bin\Debug\net8.0\GeoGuess.DataAccess.deps.json
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\bin\Debug\net8.0\GeoGuess.DataAccess.runtimeconfig.json
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\bin\Debug\net8.0\GeoGuess.DataAccess.dll
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\bin\Debug\net8.0\GeoGuess.DataAccess.pdb
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\bin\Debug\net8.0\GeoGuess.Model.dll
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\bin\Debug\net8.0\GeoGuess.Model.pdb
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.DataAccess.AssemblyInfo.cs
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.7424B64D.Up2Date
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.DataAccess.dll
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\refint\GeoGuess.DataAccess.dll
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.DataAccess.pdb
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\GeoGuess.DataAccess.genruntimeconfig.cache
+C:\Users\mfspe\source\repos\GeoGuess\GeoGuess.DataAccess\obj\Debug\net8.0\ref\GeoGuess.DataAccess.dll

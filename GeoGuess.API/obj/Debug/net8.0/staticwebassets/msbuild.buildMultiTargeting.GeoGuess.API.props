@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GeoGuess.API.props" />
+</Project>
